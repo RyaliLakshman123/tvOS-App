@@ -10,9 +10,22 @@
 		0E667AC52EE5C112000D8E31 /* TV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TV.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		0E705CEC2EF3152400AC03F6 /* Exceptions for "TV" folder in "TV" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 0E667AC42EE5C112000D8E31 /* TV */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		0E667AC72EE5C112000D8E31 /* TV */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				0E705CEC2EF3152400AC03F6 /* Exceptions for "TV" folder in "TV" target */,
+			);
 			path = TV;
 			sourceTree = "<group>";
 		};
