@@ -5,12 +5,6 @@
 //  Created by Sameer Nikhil on 07/12/25.
 //
 
-//
-//  ContentView.swift
-//  demo
-//
-//  Created by Htain Lin Shwe on 10/06/2025.
-//
 
 import SwiftUI
 

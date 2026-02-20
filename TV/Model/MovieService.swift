@@ -14,7 +14,7 @@ class MovieService: ObservableObject {
     @Published var featuredMovie: Movie?
     @Published var videoKey: String?
 
-    private let apiKey = "8d0e5bb27c4c28904e24b540f7415a84"
+    private let apiKey = ""
     private let movieID = 1060046
 
     func fetchFeaturedMovie() {

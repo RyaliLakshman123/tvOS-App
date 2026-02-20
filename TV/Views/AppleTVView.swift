@@ -244,7 +244,7 @@ class AppleTVViewModel: ObservableObject {
     @Published var sciFiMovies: [MediaContent] = []
     @Published var dramaMovies: [MediaContent] = []
     
-    private let apiKey = "8d0e5bb27c4c28904e24b540f7415a84"
+    private let apiKey = ""
     
     func loadContent() {
         // Add your custom movies first
